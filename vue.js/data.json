@@ -1,0 +1,65 @@
+{
+          "chart": {
+            "caption": "Growth of hot tech products",
+            "subcaption": "YoY Sales in USD",
+            "decimals": "0",
+            "numberprefix": "$",
+            "baseFont": "Roboto",
+            "baseFontSize": "14",
+            "showAlternateVGridColor": "1",
+            "alternateVGridAlpha": "5",
+            "labelFontSize": "15",
+            "captionFontSize": "20",
+            "subCaptionFontSize": "16",
+            "placevaluesinside": "1",
+            "rotatevalues": "0",
+            "divlinealpha": "50",
+            "paletteColors": "#1B5E20, #0091EA",
+            "plotfillalpha": "80",
+            "drawCrossLine": "1",
+            "crossLineColor": "#dddddd",
+            "crossLineAlpha": "30",
+            "theme": "ocean"
+          
+            
+            
+          },
+          "categories": [{
+            "category": [{
+                "label": "Wearables"
+              },
+              {
+                "label": "Smart Home"
+              },
+              {
+                "label": "4K UHD TV"
+              }
+            ]
+          }],
+          "dataset": [{
+              "seriesname": "2016",
+              "data": [{
+                  "value": "43680000"
+                },
+                {
+                  "value": "13500000"
+                },
+                {
+                  "value": "6847000"
+                }
+              ]
+            }, {
+              "seriesname": "2017",
+              "data": [{
+                  "value": "48000000"
+                },
+                {
+                  "value": "27000000"
+                },
+                {
+                  "value": "16700000"
+                }
+              ]
+            }
+          ]
+        }
